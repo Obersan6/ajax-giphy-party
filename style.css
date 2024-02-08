@@ -1,0 +1,25 @@
+body {
+    background-color: slateblue;
+}
+
+h1 {
+    color: lightblue;
+}
+
+h1, form {
+    text-align: center;
+}
+
+#search {
+    width: 150px;
+}
+
+#submit-btn {
+    width: 100px;
+    height: 21.333px;
+}
+
+/* <form action="">
+      <input type="text" name="" id="search">
+      <button type="submit" id="submit-btn"></button>
+   </form> */
